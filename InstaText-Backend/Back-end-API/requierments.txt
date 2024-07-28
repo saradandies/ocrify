@@ -1,0 +1,16 @@
+flask
+opencv
+pytesseract 
+tesseract
+
+
+///////////////////////////////////////////////////////
+
+tesseract => 
+
+You need to have Tesseract OCR installed on your computer.
+
+get it from here. https://github.com/UB-Mannheim/tesseract/wiki
+
+install it to be like this C:\Program Files\Tesseract-OCR
+
